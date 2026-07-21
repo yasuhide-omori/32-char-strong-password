@@ -20,8 +20,8 @@ This symbol set is provided in `symbols.txt`.
 ## Environment compatibility
 
 This tool runs cleanly in Git Bash, Git for Windows, MSYS2, and BusyBox‑on‑Windows.
-It’s just awk — no dependencies, no locale surprises.
-The ASCII symbol set used here is verified directly on Facebook’s password form, ensuring that every generated password is fully compatible.
+It’s just awk — no dependencies and no locale surprises.
+The ASCII symbol set used here is verified directly on Facebook’s password form, ensuring full compatibility with Facebook’s password requirements.
 
 ---
 
